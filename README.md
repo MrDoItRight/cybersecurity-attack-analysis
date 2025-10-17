@@ -42,4 +42,4 @@ The dataset used for this analysis is the "Cyber Security Attacks" dataset, publ
 
 ## How to Use This Repository 📁
 
-You can download the full project file (`your_project_name.pbix`) from this repository to explore the data model, DAX measures, and report design in Power BI Desktop.
+You can download the full project file (`Cybersecurity_Attack_Analysis.pbix`) from this repository to explore the data model, DAX measures, and report design in Power BI Desktop.
